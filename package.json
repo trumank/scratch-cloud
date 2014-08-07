@@ -1,0 +1,19 @@
+{
+  "name": "scratch-cloud",
+  "version": "0.0.0",
+  "description": "A multiplayer game server for Scratch.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@heroku.com:scratch-cloud.git"
+  },
+  "keywords": [
+    "scratch",
+    "cloud"
+  ],
+  "author": "Truman Kilen",
+  "license": "MIT"
+}
